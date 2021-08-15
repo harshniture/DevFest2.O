@@ -21,4 +21,4 @@ We provide students with all required resources on a single platform, taking int
 
 ## :sunflower: [Click here](https://drive.google.com/file/d/1pHWDnDWUU7-UTc1dF6cFtnBiKT_LFd8o/view?usp=drivesdk) to view Video
 
-## :sunflower: [Click here](https://rohitbhat1603.github.io/DevFolio2.O/) to view our project
+## :sunflower: [Click here](https://rohitbhat1603.github.io/DevFest2.O/) to view our project
