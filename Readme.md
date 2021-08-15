@@ -17,7 +17,7 @@ Youth are the nation's future. After 12th grade, students are among the most cru
 
 We provide students with all required resources on a single platform, taking into account their time restrictions. Also due to this ongoing COVID-19 pandemic, students are not able to go to colleges or universities offline, therefore this is a little initiative from our team to help students virtually.
 
-## :sunflower: [Click here](https://drive.google.com/file/d/1lNerx0Hcoi9Kiufd_Wip2xwBn8gr5LQK/view) to view Presetation
+## :sunflower: [Click here](https://drive.google.com/file/d/1KGYjblgfxOTXgu-LlCnLkhI4Lsuk0Q1h/view?usp=drivesdk) to view Presetation
 
 ## :sunflower: [Click here](https://drive.google.com/file/d/1pHWDnDWUU7-UTc1dF6cFtnBiKT_LFd8o/view?usp=drivesdk) to view Video
 
