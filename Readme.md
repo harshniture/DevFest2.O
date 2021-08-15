@@ -11,7 +11,7 @@ Team members: <br/>
 ## Theme: Education ##
 
 ### Project Description:- ###
-College Pick is all about helping High School Exams qualified students to find best private college across the country. This hands-on scrapped data from thousands of websites definitely helps student in choosing right course and college. We have displayed best colleges along with the information about their college.
+College Pick is all about helping High School Exams qualified students to find best private college across the country. This hands-on scrapped data from thousands of websites definitely helps student in choosing right course and college. We have displayed best colleges along with the detailed information.
 
 Youth are the nation's future. After 12th grade, students are among the most crucial times of a selecting a good college for their further studies. To help students along their journey to a successful platform with the right intake of information is what College Pick is developed to achieve.
 
